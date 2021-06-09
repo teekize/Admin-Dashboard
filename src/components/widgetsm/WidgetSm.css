@@ -7,7 +7,7 @@
 }
 
 .widget-sm-title{
-    font-size: 32px;
+    font-size: 22px;
     font-weight: 600;
 }
 
@@ -29,7 +29,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin:20px 0px;
+    margin:30px 0px;
 }
 
 .widget-sm-user{

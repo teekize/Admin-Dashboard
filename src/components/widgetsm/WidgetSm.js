@@ -30,8 +30,8 @@ const WidgetSm = () => {
 
                     <div className="widget-sm-user">
 
-                        <span className="widget-sm-username">Kevin Thuita</span>
-                        <span className="widget-sm-job">Jazz Muscian</span>
+                        <span className="widget-sm-username">Nyambura Ivy</span>
+                        <span className="widget-sm-job">Chef</span>
 
                     </div>
                     <button className="widget-sm-button">
@@ -46,8 +46,8 @@ const WidgetSm = () => {
 
                     <div className="widget-sm-user">
 
-                        <span className="widget-sm-username">Kevin Thuita</span>
-                        <span className="widget-sm-job">Jazz Muscian</span>
+                        <span className="widget-sm-username">Spurgeon k</span>
+                        <span className="widget-sm-job">Golfer</span>
 
                     </div>
                     <button className="widget-sm-button">
@@ -62,8 +62,24 @@ const WidgetSm = () => {
 
                     <div className="widget-sm-user">
 
-                        <span className="widget-sm-username">Kevin Thuita</span>
-                        <span className="widget-sm-job">Jazz Muscian</span>
+                        <span className="widget-sm-username">John Carlos</span>
+                        <span className="widget-sm-job">Actor</span>
+
+                    </div>
+                    <button className="widget-sm-button">
+                        <VisibilityIcon className="widget-sm-button-icon" />
+                        Display
+                    </button>
+                </li>
+
+                <li className="widget-sm-list-item">
+
+                    <img className="widget-sm-item-image" src="https://lh3.googleusercontent.com/ogw/ADea4I5Zmq8Da4GL7w1Bi0NPQTomAbVrc6oMrn_pZiEugw=s32-c-mo" alt="profile pic" />
+
+                    <div className="widget-sm-user">
+
+                        <span className="widget-sm-username">Gathuita John</span>
+                        <span className="widget-sm-job">GIS</span>
 
                     </div>
                     <button className="widget-sm-button">
