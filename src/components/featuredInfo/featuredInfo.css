@@ -11,8 +11,8 @@
     padding:30px;
     border-radius: 10px;
     cursor: pointer;
-    -webkit-box-shadow: 1px 0px 27px 13px #BFBFBF; 
-    box-shadow: 1px 0px 27px 13px #BFBFBF;
+    -webkit-box-shadow: 1px 0px 20px 6px #E8E8E8; 
+    box-shadow: 1px 0px 20px 6px #E8E8E8;
 }
 
 .featured-title{
