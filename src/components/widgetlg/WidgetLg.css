@@ -46,3 +46,8 @@
     background-color:#fff0f1 ;
     color:#d95087
 }
+
+.widget-lg-date,
+.widget-lg-amount{
+    font-weight: 300;
+}
